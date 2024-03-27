@@ -1,0 +1,109 @@
+.section1 {
+    height: 50%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: #FEECE0;
+    display: flex;
+    justify-content: center;
+    gap: 24px; 
+    align-items: center; 
+    flex-direction: row;
+    position: absolute;
+}
+
+.botoes {
+    gap: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.botoesimg {
+    width: 20px;
+    height: auto;
+}
+
+.pamonha {
+    width: auto;
+    height: 250px;
+}
+
+.titulo2 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+h1 {
+    font-size: 50px; 
+    color: #58190A;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-size: 32px;
+    color: #58190A;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h3 {
+    font-size: 30px;
+    color: #9B6647;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+.section2 {
+    height: 50%;
+    width: 100%; 
+    bottom: 0px;
+    right: 0px;
+    background-color:#9B6647;
+    display: flex;
+    justify-content: center;
+    gap: 10px;  
+    align-items: center; 
+    flex-direction: row;
+    position: absolute;
+}
+
+.sal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.panela {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+h4 {
+    font-size: 32px; 
+    color: #FEECE0;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p {
+    font-size: 30px;
+    color: #9B6647;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+li {
+    color: whitesmoke;
+    align-items: center;
+}
